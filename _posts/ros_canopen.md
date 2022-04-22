@@ -33,4 +33,4 @@ $ source devel/setup.bash
 $ rostopic echo /received_messages
 
 ### 4.成功展示
-![本地路径](图片1.)
+![本地路径](图片1.png"成果展示")
